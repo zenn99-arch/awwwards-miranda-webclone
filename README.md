@@ -1,12 +1,6 @@
-# This Website was crafted by - @chaniru.lk - Instagram
+Visit - https://awwwards-miranda-webclone.vercel.app/
+
 ![Screenshot](./src/components/assets/screenshot.png)
-
-# About the AUTHOR
-
-<h1>FOLLOW ME ON INSTAGRAM - @chaniru.lk</h1>
-
-For more designs and inspiring website development /
-awwwards remakes :-)
 
 # Getting Started with Create React App
 
